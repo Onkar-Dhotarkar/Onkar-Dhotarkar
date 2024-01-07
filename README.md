@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Onkar Dhotarkar</h1>
+
+![Onkar-resume_Photo-removebg](https://github.com/Onkar-Dhotarkar/NewsPluse_Component_Based-React-App/assets/142321110/4c330bc3-d9d1-469f-bb0f-fbb2be166a47)
+
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar-dhotarkar&label=Profile%20views&color=0e75b6&style=flat" alt="onkar-dhotarkar" /> </p>
