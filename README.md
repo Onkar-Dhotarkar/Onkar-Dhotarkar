@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onkar Dhotarkar</h1>
 
-![rsz_onkar-resume_photo-removebg_-_copy](https://github.com/Onkar-Dhotarkar/my-portfolio/assets/142321110/02fb60f3-9c3c-495c-a1fa-25204f488d3c)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar-dhotarkar&label=Profile%20views&color=0e75b6&style=flat" alt="onkar-dhotarkar" /> </p>
