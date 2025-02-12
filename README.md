@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar-dhotarkar&label=Profile%20views&color=0e75b6&style=flat" alt="onkar-dhotarkar" /> </p>
 
-- 🔭 I’m currently working on [Protfolio](https://github.com/Onkar-Dhotarkar/my-portfolio)
+- 🔭 I’m currently working on 🤫
 
 - 🌱 I’m currently learning **React, Node**
 
