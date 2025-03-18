@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&random=false&width=650&height=65&lines=Hi+%F0%9F%91%8B%2C+I'm+Onkar+Dhotarkar)](https://git.io/typing-svg)
 </h1>
 
-<h3 align="center" >A passionate Frontend Developer</h3>
+<h3 align="center" >A passionate Web Developer</h3>
  
 
 
