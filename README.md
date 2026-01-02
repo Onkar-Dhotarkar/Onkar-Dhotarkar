@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on 🤫
 
-- 🌱 I’m currently learning **AIML-DL**
+- 🌱 I’m currently learning **AI-ML-DL**
 
 - 👨‍💻 All of my projects are available at [https://onkardhotarkar.vercel.app/](https://onkardhotarkar.vercel.app/)
 
